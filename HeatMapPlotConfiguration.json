@@ -1,0 +1,25 @@
+{
+    "node": "patient_account",
+    "xaxis": {
+        "xfieldName": "los",
+        "title": "Los",
+        "titleVisibility": true,
+        "titleColor": "#000000",
+        "titleFromAxis": 10,
+        "axisVisibility": true,
+        "axisColor": "#000000",
+        "labelFormat": "0"
+
+    },
+    "yaxis": {
+        "yfieldName": "apacheScore",
+        "title": "apacheScore",
+        "titleVisibility": true,
+        "titleColor": "#000000",
+        "titleFromAxis": 10,
+        "axisVisibility": true,
+        "axisColor": "#000000",
+        "labelFormat": "0"
+    },
+    "colorscale": "Blues"
+}
